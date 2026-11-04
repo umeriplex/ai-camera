@@ -1,0 +1,15 @@
+# Customer CCTV footage and anything derived from it: never commit
+*.dav
+*.mp4
+*.png
+*.jpg
+data/
+outputs/
+
+# Environments, weights, caches
+.venv/
+.venv-rf/
+*.pt
+*.pth
+__pycache__/
+.DS_Store
