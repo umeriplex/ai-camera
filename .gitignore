@@ -13,3 +13,4 @@ outputs/
 *.pth
 __pycache__/
 .DS_Store
+labels/
